@@ -6,12 +6,5 @@
 +ワークスペースの作成方法
 +登録ができたら、実際に操作をするワークスペースを作成してみましょう。
 登録が完了するとダッシュボード画面が表示されるので、「Create a new workspace」ボタンを押してください。
-+- 
-+- 
-+- 
-+- 
-+- 
-+- 
-+
-+確認した結果などについては別途時間を設けて発表してもらいます。ngooooooooooooooooooooooooooooooooooooooooooooozako
-+
+。ngooooooooooooooooooooooooooooooooooooooooooooozako
+
