@@ -13,5 +13,5 @@
 +- 
 +- 
 +
-+確認した結果などについては別途時間を設けて発表してもらいます。
++確認した結果などについては別途時間を設けて発表してもらいます。ngooooooooooooooooooooooooooooooooooooooooooooozako
 +
