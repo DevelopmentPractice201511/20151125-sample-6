@@ -11,6 +11,6 @@ test
 ###基本的な使い方
 ファイルを作成するには、左のフォルダが表示されている箇所で右クリックをして「New File」を選択すると作成できます。
 <img src="http://static.techacademy.jp/magazine/wp-content/uploads/2015/07/cloud9_021-620x348.png" >
-<br>フォルダを作成する際も同じ要領で右クリックしてから「New Folder」を選択すると作成できます。</br>
+<br>フォルダを作成する際も同じ要領で右クリックしてから「New Folder」を選択すると作成できます。
 <img src="http://static.techacademy.jp/magazine/wp-content/uploads/2015/07/cloud9_032-620x348.png" >
 ###Apacheを起動してプレビューする
