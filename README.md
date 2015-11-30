@@ -35,3 +35,34 @@ Cloud9では、Apacheを起動して開発している内容をプレビュー�
 このように表示されれば成功です。
 <br>
 <img src="http://static.techacademy.jp/magazine/wp-content/uploads/2015/07/cloud9_invite_completed.png" >
+
+###テンプレートを使ってみる
+<br>ここまでは「Custom」を使って紹介してきましたが、Cloud9には便利なテンプレートが用意されています。今回は、Ruby on <br>RailsとWordPressのテンプレートを実際に使ってみます。
+####Ruby on Railsのテンプレート
+<br>テンプレートの1つ目として、Ruby on Railsのテンプレートを使用します。
+<br>まずはテンプレートで「Ruby」を選びましょう。
+<br><img src="http://static.techacademy.jp/magazine/wp-content/uploads/2015/07/ruby1-620x216.png" >
+<br>選択して開くだけでRuby on Railsの開発環境が構築できた状態になります。
+<br><img src="http://static.techacademy.jp/magazine/wp-content/uploads/2015/07/Rails-620x315.png" >
+<br>Railsアプリケーションを起動する場合は、通常「railss」コマンドを使用しますが、Cloud9では下記のコマンドを入力します。コンソール部分でこのように入力してください。
+
+$ rails s -p $PORT -b $IP
+
+<br><img src="http://static.techacademy.jp/magazine/wp-content/uploads/2015/07/console_png-620x544.png" >
+<br>コマンド入力後、このように表示されればサーバは正常に起動しています。
+<br>=> Booting WEBrick
+=> Rails 4.1.6 application starting in development on http://0.0.0.0:8080
+=> Run `rails server -h` for more startup options
+=> Notice: server is listening on all interfaces (0.0.0.0). Consider using 127.0.0.1 (–binding option)
+=> Ctrl-C to shutdown server
+[2015-06-08 05:10:45] INFO WEBrick 1.3.1
+[2015-06-08 05:10:45] INFO ruby 2.1.5 (2014-11-13) [x86_64-linux]
+[2015-06-08 05:10:45] INFO WEBrick::HTTPServer#start: pid=2367 port=8080
+
+<br>起動するとこのようにURLが表示されるので、クリックしてアクセスしてください。
+<br><img src="http://static.techacademy.jp/magazine/wp-content/uploads/2015/07/rails-s-620x193.png" >
+<br>アクセスするとアプリケーションの初期画面が表示されます。
+<br>この初期画面ではRubyのバージョン、実行しているアプリケーションの情報などが閲覧できます。
+<img src="http://static.techacademy.jp/magazine/wp-content/uploads/2015/07/rails-top-620x455.png" >
+<br>なお、コンソール上でCtrl + cを押すと、railsのwebサーバが停止します。
+<br>以上が、Ruby on Railsのテンプレートの使い方です。
